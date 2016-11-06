@@ -1,3 +1,3 @@
 # CollectiveIntelligence
 
-Repository for coding the examples and excercises of the book "Collective Intelligence".
+Coding examples and excercises in the book "Collective Intelligence".
